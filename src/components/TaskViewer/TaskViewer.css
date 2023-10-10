@@ -1,0 +1,16 @@
+
+.viewer-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #bbbbc1;
+    height: 100vh;
+    margin: 32px;
+    border-radius: 14px;
+    align-items: center;
+}
+
+h2{
+    margin: 32px 32px 0px 32px;
+    color: #49494b;
+    
+}
